@@ -28,4 +28,3 @@ docker exec -it host1 bash
 <!-- After install ping: apt install -y iputils-ping -->
 ping host2.nagoya-foundation.com
 
-# DNS-Server-in-Docker
